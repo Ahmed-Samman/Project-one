@@ -1,6 +1,8 @@
 short ReadName()
 {
 	fsgs
-
+shgshjjjj
+{wuiiiwiw
+djjdj
 
 
