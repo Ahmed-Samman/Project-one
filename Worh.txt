@@ -1,8 +1,4 @@
 Create Page setting
 Create Page Home
-
-Create Page webview
-
 Create Page Video
-
-Create dashbord
+Create dashboard
