@@ -1,4 +1,3 @@
 Create Page setting
 Create Page Home
 Create Page Video
-Create dashboard
