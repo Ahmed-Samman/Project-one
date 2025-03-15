@@ -3,3 +3,4 @@ Create Page Home
 Create Page Video
 Create dashboard
 Create Page Login
+Create Page forget pass
